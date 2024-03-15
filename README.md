@@ -3,11 +3,13 @@
 
 ## Etiquetas de texto
 
+´´´
+
 - <em> texto enfatizado
 - <strong> resaltar importante (negrita)
 - <mark> teto resaltado
 - <i> tono resaltado
-- <b> usaa comunmente para destacar palabras clave en el navegador (negrita)
+- <b> usa comunmente para destacar palabras clave en el navegador (negrita)
 - <small> hacer pequeñas aclaraciones
 - <q> sirve para colocar citas o frases
 - <br> salto de lineas (como colocar un enter)
@@ -92,3 +94,5 @@
 - <body> Lleva la estructura del cuerpo del sitio web, este contenido será visible en el navegador
 - <footer> Lleva la estructura del pie del sitio web, este contenido será visible en el navegador 
 - <style> Usaba para insertar contenido CSS dentro del HTML
+
+´´´
