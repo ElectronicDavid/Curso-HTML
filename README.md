@@ -1,3 +1,18 @@
+#Atributos de HTML
+
+- name -> proporcional el nombre del elemento del DOM
+- id -> Ayuda a tener un identificador unico a los elementos
+- class -> Asigna una o más clases de css a un elemento
+- src -> Especifica la URL de la fuente de un elemento (imagen, video, fichero js, fichero css, etc)
+- alt -> se usa en las etiquetas multimedia ejempli img, proporciona un texto de ayuda o un texto alternativo en caso que el contenido multimedia no pueda monstrarse o cargarse
+- type -> especifica el tipo de contenido que tiene el elemento
+- Style -> Define las reglas de css en línea para ese elemento del DOM
+- aria -> Atributos de accesibilidad en la web, proporciona información adicional sobre un elemento
+- value -> define el valor de inicial de un elemento de entrada (inputx, textarea) 
+- title -> proporciona un título o información adicional sobre un elemento
+- href -> Especifica la URL a la que enlace (a) referencia un script o un elemento de CSS
+
+
 # Etiquetas mas usadad en HTML
 ---
 
